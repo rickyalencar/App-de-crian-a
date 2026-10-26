@@ -1,0 +1,6 @@
+{
+  "name": "Pinturinha Mágica - Jogo de Colorir Educativo",
+  "description": "Jogo infantil de colorir educativo com desenhos animados, modo balde mágico, pincel livre, carimbos e curiosidades narradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
